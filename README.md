@@ -1,4 +1,4 @@
-<h1 align="center">Hi, This is Youngjae's Github, a machine vision developer.</h1>
+<h1 align="center">Hi, This is Young jae's Github, a machine vision developer.</h1>
 <h3 align="center">A passionate machine vision developer from South Korea</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyj19&label=Profile%20views&color=0e75b6&style=flat" alt="jyj19" /> </p>
